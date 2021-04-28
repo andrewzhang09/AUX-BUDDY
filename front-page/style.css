@@ -1,0 +1,12 @@
+p.title {
+    font-family: 'Rubik';
+    font-size: 48px;
+    font-weight: bold;
+    color: #4EA165;
+    border-bottom: 1px solid black;
+}
+
+.question {
+    font-family: 'Pangolin', sans-serif;
+    font-size: 36px;
+}
