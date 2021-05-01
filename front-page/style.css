@@ -1,12 +1,37 @@
+html {
+    height: 100%;
+    background-image: linear-gradient(#FFDE67, #F0974C 78.86%);
+}
+
 p.title {
     font-family: 'Rubik';
     font-size: 48px;
     font-weight: bold;
     color: #4EA165;
+    width: 287px;
+    margin-left: 75px;
+    margin-top: 75px;
     border-bottom: 1px solid black;
 }
 
 .question {
     font-family: 'Pangolin', sans-serif;
     font-size: 36px;
+    margin-left: 75px;
+}
+
+.description {
+    font-family: 'Roboto';
+    font-size: 24px;
+    width: 500px;
+    margin-left: 75px;
+}
+
+.image {
+    position: absolute;
+    border-bottom-left-radius: 100px;
+    border-top-left-radius: 100px;
+    width: 700px;
+    height: 500px;
+    right: 0%;
 }
